@@ -1,6 +1,7 @@
 # Change-server-port-on-Blynk
 how to change server port on blynk 
 
+To solve connecting to blynk-cloud.com:80 login timeout
 
 open file "BlynkProtocol.h"
 on DIR: ....\Documents\Arduino\libraries\Blynk\src\Blynk
