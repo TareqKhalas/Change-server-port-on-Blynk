@@ -9,6 +9,7 @@ on DIR: ....\Documents\Arduino\libraries\Blynk\src\Blynk
 comment line 338 & 339 :
 
 //   if (++it < param.end())
+
        //   redir_port = it.asLong();
      
 open file "BlynkConfig.h" at the same folder and change the define BLYNK_DEFAULT_PORT as you want like:
